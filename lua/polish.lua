@@ -6,3 +6,6 @@
 
 -- Set up custom filetypes
 vim.wo.relativenumber = false
+
+vim.keymap.set("n", "ga", "^")
+vim.keymap.set("n", "gl", "$")
