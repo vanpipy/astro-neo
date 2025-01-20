@@ -11,4 +11,6 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.git.neogit" },
+  { import = "astrocommunity.git.blame-nvim" },
 }
