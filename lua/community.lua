@@ -13,4 +13,5 @@ return {
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.git.neogit" },
   { import = "astrocommunity.git.blame-nvim" },
+  { import = "astrocommunity.completion.copilot-cmp" },
 }
