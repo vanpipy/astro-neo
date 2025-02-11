@@ -14,4 +14,5 @@ return {
   { import = "astrocommunity.git.neogit" },
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.completion.copilot-cmp" },
+  { import = "astrocommunity.markdown-and-latex.vimtex" },
 }
