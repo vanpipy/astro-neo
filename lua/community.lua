@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.git.blame-nvim" },
   { import = "astrocommunity.completion.copilot-cmp" },
   { import = "astrocommunity.markdown-and-latex.vimtex" },
+  { import = "astrocommunity.pack.python-ruff" },
 }
